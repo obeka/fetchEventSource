@@ -1,0 +1,15 @@
+{
+	"name": "parcel-fetch-event-source",
+	"version": "0.1.0",
+	"description": "Fetch Event Source",
+	"source": "index.html",
+	"scripts": {
+		"start": "parcel"
+	},
+	"dependencies": {
+		"@microsoft/fetch-event-source": "^2.0.1"
+	},
+	"devDependencies": {
+		"parcel": "^2.12.0"
+	}
+}
